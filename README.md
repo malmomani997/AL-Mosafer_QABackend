@@ -1,4 +1,4 @@
-# AlMosafer BE Framework
+no9# AlMosafer BE Framework
 
 ## Overview
 
@@ -86,7 +86,7 @@ The project is organized into several packages, each serving a specific purpose:
 Base URL and other configurations can be set in the global.properties file located in src/test/java/resources.
 
 ## Reporting 
-Navigate to the Target package and look for **overview-features.html** copy the bath and open it on the browser 
+Navigate to the Target package and look for **overview-features.html** copy the path and open it on the browser 
 
 - **File location**
 ![idea64_FpjGsWBTtG](https://github.com/malmomani997/AL-Mosafer_QABackend/assets/145292080/196745b3-6148-4120-9739-e85c1b8b4ace)
