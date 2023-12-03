@@ -87,12 +87,7 @@ Base URL and other configurations can be set in the global.properties file locat
 
 ## Build and Run
 
-To build the project, run:
+To build the project and generate report, run:
 
 ```bash
-mvn clean install
-
-To execute tests and generate Cucumber reports, run:
-
-```bash
-mvn clean verify
+mvn test verify
