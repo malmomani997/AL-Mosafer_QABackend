@@ -82,6 +82,9 @@ The project is organized into several packages, each serving a specific purpose:
 - **Cucumber Reporting:** 5.7.7
 - **Jackson Databind:** 2.16.0
 
+## Configuration
+Base URL and other configurations can be set in the global.properties file located in src/test/java/resources.
+
 ## Build and Run
 
 To build the project, run:
@@ -93,6 +96,3 @@ To execute tests and generate Cucumber reports, run:
 
 ```bash
 mvn clean verify
-
-## Configuration
-Base URL and other configurations can be set in the global.properties file located in src/test/java/resources.
